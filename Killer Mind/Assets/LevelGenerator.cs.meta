@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0d72147d092d0a14e8659492fc94c935
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelPart_Start: {fileID: 5310276158739098694, guid: 96e5ea63d20b50f4fa60fa54af0931f4, type: 3}
+  - levelPart_1: {fileID: 5310276158739098694, guid: 96e5ea63d20b50f4fa60fa54af0931f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

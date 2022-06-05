@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heart 1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backround
+    uniqueID: 580615741
+    locked: 0
+  - name: Ambiance 1
+    uniqueID: 79697705
+    locked: 0
+  - name: Ambiance 2
+    uniqueID: 3538406291
+    locked: 0
+  - name: Ambiance 3
+    uniqueID: 3981013253
+    locked: 0
+  - name: Charecters
+    uniqueID: 3795944597
+    locked: 0
+  - name: Foreground
+    uniqueID: 1418981507
+    locked: 0
+  - name: HUD
+    uniqueID: 2081921375
+    locked: 0
